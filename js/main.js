@@ -31,3 +31,4 @@ copyBtn.addEventListener("click", () => {
   navigator.clipboard.writeText(passwordBox.value);
 });
 
+
